@@ -1,0 +1,61 @@
+/* Custom styles */
+.login-container {
+    margin-top: 50px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.error-text {
+    color: #f44336;
+    margin: 10px 0;
+}
+
+/* Navigation styles */
+nav {
+    margin-bottom: 20px;
+}
+
+/* Dashboard cards */
+.dashboard-stats {
+    padding: 20px;
+}
+
+/* Profile section */
+.profile-section {
+    margin: 20px 0;
+}
+
+/* Add these styles to your existing custom.css */
+
+.timeline .card {
+    margin: 20px 0;
+    border-left: 4px solid #1565c0;
+}
+
+.timeline .card .card-content {
+    padding: 20px;
+}
+
+.timeline .card .company {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.timeline .card .duration {
+    color: #666;
+    margin: 5px 0;
+}
+
+.timeline .card .type,
+.timeline .card .location,
+.timeline .card .industry {
+    margin: 5px 0;
+}
+
+.timeline .card .badge {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
